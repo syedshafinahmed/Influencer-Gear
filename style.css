@@ -189,3 +189,13 @@
     background-color: #0A0826;
     padding: 50px 0px;
 }
+.dn{
+    display: none;
+}
+
+@media screen and (max-width:992px) {
+    .header{
+        flex-direction: column;
+        gap: 20px;
+    }
+}
