@@ -160,3 +160,32 @@
     gap: 100px;
     margin: 150px 0px 100px 0px;
 }
+.footer1{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.footer2{
+    font-weight: bold;
+    font-size: 14px;
+    color: #D9DBE1;
+    margin: 50px 0px 50px 0px;
+}
+.footer1, .footer2{
+    text-align: center;
+}
+.footerimg{
+    width: 32px;
+    height: 32px;
+}
+.footer3{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.footer{
+    background-color: #0A0826;
+    padding: 50px 0px;
+}
