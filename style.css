@@ -130,3 +130,33 @@
     gap: 60px;
     margin-bottom: 60px;
 }
+.fr{
+    width: 404px;
+    height: 270px;
+}
+.fl1{
+    font-size: 38px;
+    font-weight: bold;
+    color: #0A0826;
+}
+.fl2{
+    color: #6C6C6C;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 16px 0px;
+}
+.fl3{
+    width: 155px;
+    height: 44px;
+    background-color: #E02C6D;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+.feature{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin: 150px 0px 100px 0px;
+}
