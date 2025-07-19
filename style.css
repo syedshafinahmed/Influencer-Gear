@@ -236,7 +236,15 @@
         justify-content: center;
         align-items: center;
     }
-    .fl2{
+    .fl1{
+        font-size: 20px;
         text-align: center;
+    }
+    .fl2{
+        font-size: 10px;
+        text-align: center;
+    }
+    .fr{
+        margin-top: -50px;
     }
 }
