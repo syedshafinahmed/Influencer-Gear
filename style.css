@@ -69,3 +69,17 @@
     border-radius: 40px;
     font-weight: bold;
 }
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 135px;
+}
+.sponsor{
+    padding: 36px 63px;
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0px;
+}
